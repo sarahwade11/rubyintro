@@ -4,10 +4,9 @@
 
 
 # Arrays are lists of things
-
 # We can build an array out of different
 # types of things, or even combine types of things if we want.
-favorite_foods = ["tacos", "pizza", "ice cream"]
+favorite_foods = ["tacos", "pizza", "ice cream", "sushi"]
 puts favorite_foods
 
 we_have_to_go_back = [4, 8, 15, 16, 23, 42]
